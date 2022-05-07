@@ -1,0 +1,365 @@
+#bk{
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  width: 693px;
+  height: 349px;
+  opacity: 50%;
+}
+body{
+  width: 691px;
+}
+.first,.second,.third,.forth,.fifth,.sixth,.seventh,.eighth,.ninth{
+  margin-left: 7px;
+}
+
+                        /*first*/
+.first{
+  margin: 19px 7px 0px;
+  width: 682px;
+}
+.first>.ui-grid-row{
+  width: 684px;
+  padding-bottom: 0px;
+  border-bottom: 5px solid #238DC8;
+}
+.first>.ui-grid-row>.head{
+  font-size: 15px;
+  font-weight: bolder;
+  color: white;
+  background-color: #238DC8;
+  display: block;
+  padding: 1px 3px 0px;
+  margin-bottom: -1px;
+  text-align: center;
+  border-radius: 4px 4px 0px 0px;
+}
+.first>.ui-grid-row>.ui-grid-13>span{
+  text-align: left;
+  font-size: 13px;
+  font-weight: bold;
+  color: white;
+  padding: 1px 3px;
+  background-color: #FD610E;
+  border-radius: 3px;
+}
+.first>.ui-grid-row>.fun{
+  text-align: right;
+  font-size: 12px;
+  font-weight: bold;
+  color: #002CBD;
+  padding: 1px 3px;
+  border: 1px solid #CCCCCC;
+  background-color: #f9f9f9;
+}
+
+
+                        /*second*/
+.second{
+  width: 682px;
+  height: 45px;
+  margin: 0px 7px;
+  border: 1px solid #CCCCCC;
+  border-top: none;
+}
+.second>.one>.ui-grid-4{
+  margin: 0px 0px 0px 6px;
+  font-size: 14px;
+  font-weight: bolder;
+  color: red;
+}
+.second>.one>.ui-grid-1{
+  margin-left: 7px;
+  margin-right: 0px;
+  font-weight: bold;
+}
+.second>.one>.ui-grid-2{
+  letter-spacing: 0.5px;
+  font-weight: bolder;
+  color: red;
+}
+.second>.two{
+  padding-top: 1px;
+}
+.second>.two>.ui-grid-4{
+  font-weight: bolder;
+  margin-right: 5px;
+}
+.second>.two>.ui-grid-3{
+  font-size: 13px;
+  font-weight: bolder;
+}
+
+                        /*third*/
+.third{
+  padding: 0px 9px;
+  border: 1px solid #CCCCCC;
+  border-top: none;
+  text-align: right;
+  font-size: 15px;
+  font-weight: bolder;
+  word-spacing: 27px;
+  letter-spacing: -4px;
+  color: #002CBD;
+  background-color: #FFFBDE;
+}
+.third>span{
+  border-bottom: 1.5px solid #002CBD;
+}
+
+
+                  /*forth*/
+.forth{
+  margin-top: 3px;
+  height: 19px;
+}
+.forth>span{
+  margin-right: 1px;
+  text-align: center;
+  font-size: 13px;
+  font-weight: bolder;
+  background-color: #C9DDE9;
+  color: #527B92;
+}
+
+
+                  /*fifth*/
+.fifth{
+  padding-bottom: 1px;
+  height: 26px;
+  border: 1px solid #CCCCCC;
+  border-top: none;
+}
+.fifth>.ui-grid-8{
+  text-align: center;
+  font-size: 17px;
+  font-weight: bolder;
+}
+.fifth>.ui-grid-9{
+  padding: 5px 0px;
+  text-align: right;
+  font-size: 13px;
+  font-weight: bolder;
+  color: #002CBD;
+}
+
+
+
+                      /*sixth*/
+.sixth{
+  height: 45px;
+  background-color: white;
+}
+.sixth>.ui-grid-3{
+  height: 45px;
+  text-align: center;
+  word-spacing: 20px;
+  font-weight: bolder;
+  margin-right: 4px;
+  border-right: 2.5px solid #7DC8DA;
+}
+.sixth>.bus{
+  padding-top: 10px;
+  height: 35px;
+  text-align: center;
+  font-weight: bolder;
+  color: #AA6600;
+  border-left: 2.5px solid #7DC8DA;
+}
+.sixth>.ui-grid-5{
+  height: 45px;
+  font-weight: bolder;
+  font-size: 14px;
+  letter-spacing: -0.5px;
+  color: #0069A6;
+  padding-right: 15px;
+  border-right: 1.5px solid #CCCCCC;
+}
+.sixth>.ui-grid-1{
+  height: 45px;
+  padding-right: 25px;
+  border-right: 1.5px solid #CCCCCC;
+  font-weight: bolder;
+  text-align: center;
+}
+.sixth>.qian{
+  padding-top: 10px;
+  height: 35px;
+  font-size: 14px;
+  font-weight: bold;
+  border-right: 1.5px solid #CCCCCC;
+}
+
+                        /*seventh*/
+.seventh{
+  margin-top: 2.5px;
+  height: 45px;
+  border: 1.5px solid #CCCCCC;
+}
+.seventh>.one{
+  display: block;
+  float: left;
+  padding: 10px 30px;
+  font-weight: bolder;
+}
+.seventh>.two{
+  display: block;
+  float: left;
+  padding: 6px 30px;
+  font-size: 18px;
+  font-weight: bolder;
+}
+.seventh>.three{
+  display: block;
+  float: left;
+  padding: 10px 30px 10px 100px;
+  font-weight: bolder;
+}
+.seventh>.four{
+  display: block;
+  float: left;
+  width: 178px;
+}
+.up{
+  display: block;
+  height: 10px;
+  width: 170px;
+  float: left;
+  margin-left: 16px;
+  font-size: 13px;
+  font-weight: bolder;
+  color: #0028C2;
+  
+}
+.up>span{
+  display: block;
+  float: left;
+  height: 15px;
+  border-bottom: 2px solid #0028C2;
+  margin-right: 3px;
+}
+.down{
+  height: 15px;
+  width: 110px;
+  float: left;
+  margin-left: 80px;
+  margin-top: 3px;
+  font-size: 16px;
+  font-weight: bolder;
+  color: #0028C2;
+}
+.down>span{
+  display: block;
+  float: left;
+  height: 17px;
+  border-bottom: 2px solid #0028C2;
+  margin-right: 3px;
+  letter-spacing: -3px;
+}
+
+
+                        /*eighth*/  
+.eighth{
+  height: 45px;
+  background-color: white;
+}
+.eighth>.ui-grid-3{
+  height: 45px;
+  text-align: center;
+  word-spacing: 20px;
+  font-weight: bolder;
+  margin-right: 4px;
+  border-right: 2.5px solid #7DC8DA;
+}
+.eighth>.bus{
+  padding-top: 10px;
+  height: 35px;
+  text-align: center;
+  font-weight: bolder;
+  color: #AA6600;
+  border-left: 2.5px solid #7DC8DA;
+}
+.eighth>.dj{
+  display: block;
+  float: left;
+  width: 190px;
+  height: 45px;
+  border-right: 1.5px solid #CCCCCC;
+  padding-right: 15px;
+}
+.eighth>.dj>.ui-grid-5{
+  height: 20px;
+  font-weight: bolder;
+  font-size: 14px;
+  letter-spacing: -0.5px;
+  color: #0069A6;
+}
+.eighth>.dj>.chuzhang{
+  background-color: #00469A;
+  border-radius: 3px;
+  color: white;
+  padding: 0px 5px;
+  font-weight: bolder;
+  letter-spacing: -1px;
+}
+.eighth>.ui-grid-1{
+  height: 45px;
+  padding-right: 25px;
+  border-right: 1.5px solid #CCCCCC;
+  font-weight: bolder;
+  text-align: center;
+}
+.eighth>.qian{
+  padding-top: 10px;
+  height: 35px;
+  font-size: 14px;
+  font-weight: bold;
+  border-right: 1.5px solid #CCCCCC;
+}
+#zhi{
+  width: 50px;
+  padding-right: 10px;
+  margin-right: 0px;
+}
+#jl{
+  width: 40px;
+  padding-right: 0px;
+  border: none;
+}
+
+
+                    /*ninth*/
+.ninth{
+
+  height: 45px;
+  border: 1.5px solid #CCCCCC;
+}
+.ninth>.one{
+  display: block;
+  float: left;
+  padding: 5px 115px;
+  font-size: 16px;
+  font-weight: bolder;
+}
+.ninth>.two{
+  display: block;
+  float: left;
+  padding: 10px 30px 10px 145px;
+  font-weight: bolder;
+}
+.ninth>.three{
+  display: block;
+  float: left;
+  width: 180px;
+}
+.ninth>.three>.up{
+  margin-left: 60px;
+  width: 130px;
+}
+.ninth>.three>.down{
+  width: 130px;
+  margin-left: 50px;
+}
+.ninth>.three>.down>span{
+  letter-spacing: -5px;
+}

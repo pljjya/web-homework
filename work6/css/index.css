@@ -1,0 +1,49 @@
+#body{
+	width: 650px;
+	height: 420px;
+	border: 2px solid grey;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content:space-around;
+}
+.square{
+	width: 200px;
+	height: 200px;
+	border: 1px solid grey;
+	margin: 5px 0px;
+}
+.picture{
+	width: 200px;
+	height: 142px;
+}
+.head,.text,.jg{
+	font-size: 12px;
+	transform: scale(0.7,0.7);
+}
+.head{
+	margin: 0px -35px;
+	word-spacing: 5px;
+}
+.text{
+	margin: -3px -38px;
+	width: 280px;
+}
+.jg{
+	margin: 0px -35px;
+}
+.lf{
+	margin: -5px;
+	font-size: 27px;
+	font-weight: bold;
+	color: red;
+	letter-spacing: -2px;
+}
+.md{
+	text-decoration: line-through;
+	margin: 0px 5px;
+	color: grey;
+}
+.rt{
+	float: right;
+	margin: 17px -5px;
+}

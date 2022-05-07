@@ -1,0 +1,15 @@
+
+li:hover{
+	color: orange;
+}
+.m-box{
+	width: 50%;
+	color: black;
+	border: 3px solid orange;
+}
+#m-item{
+	color: black;
+}
+.fn-active{
+	color: wheat;
+}
